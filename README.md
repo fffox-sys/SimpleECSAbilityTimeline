@@ -46,7 +46,7 @@ Window → SECS → Ability Timeline Editor
 
 ### 4. 运行时集成
 在 SubScene 中添加 `AbilityDBAuthoring` 组件：
-## 5.后续计划
+### 5.后续计划
 1.完善编辑器易用性
 2.添加完整的快捷键支持
 3.bug修复
