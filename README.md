@@ -5,7 +5,7 @@
 ## 简介
 
 这是简单的ECS技能系统，提供可视化的时间轴编辑器。系统采用 Phase（阶段）+ Track（轨道）+ Key/Clip（事件点/片段）的结构，支持多种效果类型。
-
+![运行时界面](https://github.com/fffox-sys/SimpleECSAbilityTimeline/blob/main/Other/track.png)
 ## 核心特性
 
 ###  编辑器功能
